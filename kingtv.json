@@ -18,6 +18,149 @@
         "tv_archive_duration": 0
     },
     {
+    "num": 363,
+    "name": "Bein Max 1 ⁴ᴷ",
+    "stream_type": "live",
+    "stream_id": 479575,
+    "stream_icon": "https://i.postimg.cc/VLDPsGkw/img-kooora.webp",
+    "epg_channel_id": "",
+    "added": "1779574377",
+    "is_adult": 0,
+    "category_id": "1666",
+    "category_ids": [
+      1666
+    ],
+    "custom_sid": null,
+    "tv_archive": 0,
+    "direct_source": "",
+    "tv_archive_duration": 0
+  },
+  {
+    "num": 364,
+    "name": "Bein Max 1 ᶠʰᵈ",
+    "stream_type": "live",
+    "stream_id": 479569,
+    "stream_icon": "https://i.postimg.cc/VLDPsGkw/img-kooora.webp",
+    "epg_channel_id": "",
+    "added": "1779574375",
+    "is_adult": 0,
+    "category_id": "1666",
+    "category_ids": [
+      1666
+    ],
+    "custom_sid": null,
+    "tv_archive": 0,
+    "direct_source": "",
+    "tv_archive_duration": 0
+  },
+  {
+    "num": 365,
+    "name": "Bein Max 1 ᴴᴰ",
+    "stream_type": "live",
+    "stream_id": 479563,
+    "stream_icon": "https://i.postimg.cc/VLDPsGkw/img-kooora.webp",
+    "epg_channel_id": "",
+    "added": "1779574374",
+    "is_adult": 0,
+    "category_id": "1666",
+    "category_ids": [
+      1666
+    ],
+    "custom_sid": null,
+    "tv_archive": 0,
+    "direct_source": "",
+    "tv_archive_duration": 0
+  },
+  {
+    "num": 366,
+    "name": "Bein Max 1 ˢᴰ",
+    "stream_type": "live",
+    "stream_id": 479557,
+    "stream_icon": "https://i.postimg.cc/VLDPsGkw/img-kooora.webp",
+    "epg_channel_id": "",
+    "added": "1779574372",
+    "is_adult": 0,
+    "category_id": "1666",
+    "category_ids": [
+      1666
+    ],
+    "custom_sid": null,
+    "tv_archive": 0,
+    "direct_source": "",
+    "tv_archive_duration": 0
+  },
+  {
+    "num": 367,
+    "name": "Bein Max 2 ⁴ᴷ",
+    "stream_type": "live",
+    "stream_id": 479574,
+    "stream_icon": "https://i.postimg.cc/FsKnp9h5/be-IN-SPORTS-MAX2-DIGITAL-Mono.png",
+    "epg_channel_id": "",
+    "added": "1779574377",
+    "is_adult": 0,
+    "category_id": "1666",
+    "category_ids": [
+      1666
+    ],
+    "custom_sid": null,
+    "tv_archive": 0,
+    "direct_source": "",
+    "tv_archive_duration": 0
+  },
+  {
+    "num": 368,
+    "name": "Bein Max 2 ᶠʰᵈ",
+    "stream_type": "live",
+    "stream_id": 479568,
+    "stream_icon": "https://i.postimg.cc/FsKnp9h5/be-IN-SPORTS-MAX2-DIGITAL-Mono.png",
+    "epg_channel_id": "",
+    "added": "1779574375",
+    "is_adult": 0,
+    "category_id": "1666",
+    "category_ids": [
+      1666
+    ],
+    "custom_sid": null,
+    "tv_archive": 0,
+    "direct_source": "",
+    "tv_archive_duration": 0
+  },
+  {
+    "num": 369,
+    "name": "Bein Max 2 ᴴᴰ",
+    "stream_type": "live",
+    "stream_id": 479562,
+    "stream_icon": "https://i.postimg.cc/FsKnp9h5/be-IN-SPORTS-MAX2-DIGITAL-Mono.png",
+    "epg_channel_id": "",
+    "added": "1779574373",
+    "is_adult": 0,
+    "category_id": "1666",
+    "category_ids": [
+      1666
+    ],
+    "custom_sid": null,
+    "tv_archive": 0,
+    "direct_source": "",
+    "tv_archive_duration": 0
+  },
+  {
+    "num": 370,
+    "name": "Bein Max 2 ˢᴰ",
+    "stream_type": "live",
+    "stream_id": 479556,
+    "stream_icon": "https://i.postimg.cc/FsKnp9h5/be-IN-SPORTS-MAX2-DIGITAL-Mono.png",
+    "epg_channel_id": "",
+    "added": "1779574372",
+    "is_adult": 0,
+    "category_id": "1666",
+    "category_ids": [
+      1666
+    ],
+    "custom_sid": null,
+    "tv_archive": 0,
+    "direct_source": "",
+    "tv_archive_d
+    {
         "num": 2,
         "name": "beIN SPORTS News HD",
         "stream_type": "live",
